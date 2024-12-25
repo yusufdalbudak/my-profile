@@ -86,6 +86,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/yusufdalbudak/yusufdalbudak/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.github.com/yusufdalbudak/my-profile/snake.svg" alt="Snake animation" />
 
 ###
