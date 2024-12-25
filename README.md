@@ -86,6 +86,5 @@
 
 <br clear="both">
 
-<img src="https://raw.github.com/yusufdalbudak/my-profile/snake.yml" alt="Snake animation" />
 
 ###
